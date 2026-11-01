@@ -1,9 +1,6 @@
-# Complete-Python-3-Bootcamp
-Course Files for Complete Python 3 Bootcamp Course on Udemy
+# Welcome to GitHub Desktop!
 
-Copyright(©) by Pierian Data Inc.
+This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Get it now for 95% off with the link:
-https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
-
-Thanks!
+Write your name on line 6, save it, and then head back to GitHub Desktop.
+edit
